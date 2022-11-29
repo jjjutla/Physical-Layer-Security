@@ -3,3 +3,5 @@ The simulation is a reproduction of results I modelled from a tutorial paper loo
 
 
 <img src="results.png"> 
+
+The image above shows a plot of my simulation results (left) compared to the paper results (right).
